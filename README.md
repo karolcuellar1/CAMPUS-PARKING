@@ -12,3 +12,5 @@ Este proyecto tiene como propósito crear un programa en python, para gestionar 
 Mi nombre es Karol Cuéllar tengo 18 años, estudio ingeniería industrial y mis habilidades son: adaptación al cambio, liderazgo, y capacidad de escuchar activamente. Mis fortalezas son: autoconfianza, respeto por las ideas de los demás y disposición para aprender.
 ## Samuel Arbelaez Sossa
 tengo 18 años,pertenezco a ingenieria industrial,mis habilidades  son:El trabajo en equipo,capacidad de aforntar situaciones imprevistas,comunicacion afectiva, y mis fortalezas son:Sentido de responsabilidad, empatia a los demas miembros del equipo,estar abierto a las criticas constructivas con tal de mejorar y aprender.
+## Alejandro Villegas Castro:
+Mi nombre es Alejandro Villegas, tengo 20 años, soy parte del pregrado de Ingenieria Industrial, mis habilidades son: creactividad, proactividad y liderazgo. Mis fortalezas son: pensamiento crictico, empatia e interacción colaborativa.
